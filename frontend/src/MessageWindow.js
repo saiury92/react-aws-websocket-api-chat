@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-const Message = ({text, username}) => (
+const Message = ({ text, username }) => (
   <div>
     <div className='message-username'>{username}</div>
     <div className='message-text'>{text}</div>
