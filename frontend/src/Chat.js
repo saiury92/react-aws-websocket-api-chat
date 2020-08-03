@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Chat.css';
 
 import TextBar from './TextBar';
 import MessageWindow from './MessageWindow';

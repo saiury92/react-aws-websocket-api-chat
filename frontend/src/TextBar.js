@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './TextBar.css';
 
 class TextBar extends Component {
   constructor(props) {

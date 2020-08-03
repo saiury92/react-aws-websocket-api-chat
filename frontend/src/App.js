@@ -5,7 +5,10 @@ import Chat from './Chat';
 class App extends Component {
   render() {
     return (
-      <Chat />
+      <div>
+        <h1>React Chat App Using AWS API Gateway Websocket</h1>
+        <Chat />
+      </div>
     );
   }
 }
